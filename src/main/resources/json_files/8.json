@@ -1,0 +1,9 @@
+{  "schoolData": [
+    {      "group": "Class A",
+      "students": [        { "name": "Student1", "age": 16, "grade": "A" },
+        { "name": "Student2", "age": 15, "grade": "B" }      ]
+    },    {
+      "group": "Class B",      "students": [
+        { "name": "Student3", "age": 17, "grade": "A-" },        { "name": "Student4", "age": 16, "grade": "B+" }
+      ]    }
+  ]}

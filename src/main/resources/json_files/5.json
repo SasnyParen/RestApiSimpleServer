@@ -1,0 +1,4 @@
+{  "taskCategories": [
+    { "category": "Work", "taskCount": 5 },    { "category": "Personal", "taskCount": 3 },
+    { "category": "Health", "taskCount": 2 }  ]
+}

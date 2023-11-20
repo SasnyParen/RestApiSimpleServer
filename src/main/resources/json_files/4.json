@@ -1,0 +1,4 @@
+{  "contacts": [
+    { "name": "John Doe", "phoneNumber": "123-456-7890", "address": "123 Main St" },    { "name": "Jane Smith", "phoneNumber": "987-654-3210", "address": "456 Oak Ave" },
+    { "name": "Bob Johnson", "phoneNumber": "555-123-4567", "address": "789 Pine Rd" }  ]
+}

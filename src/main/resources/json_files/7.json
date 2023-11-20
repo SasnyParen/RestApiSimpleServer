@@ -1,0 +1,4 @@
+{  "travelPlans": [
+    { "destination": "Paris", "date": "2023-12-10" },    { "destination": "Tokyo", "date": "2024-01-15" },
+    { "destination": "New York", "date": "2024-05-20" }  ]
+}

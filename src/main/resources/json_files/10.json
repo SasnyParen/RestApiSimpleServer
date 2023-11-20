@@ -1,0 +1,4 @@
+{  "workoutDiary": [
+    { "type": "Running", "duration": "30 minutes", "notes": "Ran in the park" },    { "type": "Weightlifting", "duration": "45 minutes", "notes": "Focused on upper body" },
+    { "type": "Yoga", "duration": "20 minutes", "notes": "Relaxing session" }  ]
+}

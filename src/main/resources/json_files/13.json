@@ -1,0 +1,9 @@
+{  "favoriteMusic": [
+    {      "group": "Imagine Dragons",
+      "albums": [        { "title": "Night Visions", "songs": ["Radioactive", "Demons", "On Top of the World"] },
+        { "title": "Evolve", "songs": ["Believer", "Thunder", "Whatever It Takes"] }      ]
+    },    {
+      "group": "Coldplay",      "albums": [
+        { "title": "A Rush of Blood to the Head", "songs": ["Clocks", "The Scientist", "In My Place"] },        { "title": "Ghost Stories", "songs": ["Magic", "A Sky Full of Stars", "Oceans"] }
+      ]    }
+  ]}

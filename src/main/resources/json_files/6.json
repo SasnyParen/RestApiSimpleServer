@@ -1,0 +1,4 @@
+{  "passwordManager": [
+    { "website": "example.com", "url": "https://example.com", "login": "user123", "password": "pass123" },    { "website": "test.com", "url": "https://test.com", "login": "testuser", "password": "testpass" },
+    { "website": "demo.net", "url": "https://demo.net", "login": "demouser", "password": "demopass" }  ]
+}

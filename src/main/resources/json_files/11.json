@@ -1,0 +1,4 @@
+{  "entertainmentList": [
+    { "title": "Inception", "type": "Movie", "duration": "2 hours", "notes": "Sci-fi thriller" },    { "title": "Stranger Things", "type": "Series", "duration": "5 seasons", "notes": "Mystery and suspense" },
+    { "title": "The Godfather", "type": "Movie", "duration": "3 hours", "notes": "Classic crime drama" }  ]
+}

@@ -1,0 +1,7 @@
+{ 
+  "computers": [ 
+    { "name": "Computer1", "status": "Online", "location": "Office", "lastLogin": "2023-11-20 10:30:00" }, 
+    { "name": "Computer2", "status": "Offline", "location": "Home", "lastLogin": "2023-11-19 18:45:00" }, 
+    { "name": "Computer3", "status": "Online", "location": "Lab", "lastLogin": "2023-11-20 12:15:00" } 
+  ] 
+}

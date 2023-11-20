@@ -1,0 +1,4 @@
+{  "bookList": [
+    { "title": "To Kill a Mockingbird", "author": "Harper Lee", "genre": "Fiction", "review": "Classic novel" },    { "title": "The Great Gatsby", "author": "F. Scott Fitzgerald", "genre": "Literary Fiction", "review": "Roaring Twenties setting" },
+    { "title": "Sapiens: A Brief History of Humankind", "author": "Yuval Noah Harari", "genre": "Non-Fiction", "review": "Insightful exploration of human history" }  ]
+}
